@@ -23,7 +23,7 @@ description: Angular 2 and other coding resources.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Angular 2: "angular2"
 
 # Image to show in the navigation bar - image must be a square (width = height)
